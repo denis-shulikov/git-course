@@ -6,4 +6,4 @@ I'm so exscited!!!!
 
 It's git class
 
-New branch here tomorrow
+New branch here
